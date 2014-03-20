@@ -10,7 +10,7 @@ Usage
 -----
 In order to use it, you have to clone the buildenvironment, change to the ubitrack directory and add the utfacade by executing:
 
-    git submodule add https://github.com/schwoere/utdataflow.git modules/utdataflow
+    git submodule add https://github.com/Ubitrack/utdataflow.git modules/utdataflow
 
 
 Dependencies
@@ -25,3 +25,4 @@ In addition, this module has to following submodule dependencies which have to b
     <td>utcore</td><td>utDataflow</td><td>no</td>
   </tr>
 </table>
+
