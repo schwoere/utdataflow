@@ -19,10 +19,9 @@ In addition, this module has to following submodule dependencies which have to b
 
 <table>
   <tr>
-    <th>Dependency</th><th>Dependent Components</th><th>optional Dependency</th>
+    <th>Components</th><th>Dependency</th>
   </tr>
   <tr>
-    <td>utcore</td><td>utDataflow</td><td>no</td>
+    <td>all</td><td>utCore</td>
   </tr>
 </table>
-
